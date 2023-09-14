@@ -59,8 +59,8 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            document.title = "Yardan Shaq";
+            $("#favicon").attr("href", "https://telegra.ph/file/9d71598db775fcbf353a1.jpg");
         }
         else {
             document.title = "Come Back To Portfolio";

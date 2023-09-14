@@ -17,7 +17,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: #191970;
+  background: #000000;
   font-family: "Poppins", sans-serif;
 }
 
@@ -70,7 +70,7 @@ header {
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
-  background-color: #191970;
+  background-color: #000000;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
 }
 section {
